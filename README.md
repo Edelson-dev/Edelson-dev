@@ -53,7 +53,7 @@ Soy un **promotor activo de código limpio y escalable**, con experiencia demost
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="mailto:edelsonjaelt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:edelsonjaeltr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/edelson-ariasdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
