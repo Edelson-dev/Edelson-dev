@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  Full Stack Developer de 18 años con 10 meses de experiencia intensiva. Especialista en <strong>React/Next.js</strong> y <strong>Node/ASP.NET</strong>. Mi enfoque es construir código limpio y escalable, aplicando activamente patrones de diseño como <strong>DDD</strong> y <strong>CQRS</strong> para soluciones de alto rendimiento.
+Joven Desarrollador de Software Full Stack con 6 meses de pasantía y 4 meses de trabajo profesional apasionado por crear soluciones aproblemas. Especialista en <strong>React/Next.js</strong> y <strong>Node/ASP.NET</strong>. Mi enfoque es construir código limpio y escalable, aplicando activamente patrones de diseño como <strong>DDD</strong> y <strong>CQRS</strong> para soluciones de alto rendimiento.
 </p>
 
 ---
