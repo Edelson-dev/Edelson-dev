@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-Joven Desarrollador de Software Full Stack con 6 meses de pasantía y 4 meses de trabajo profesional apasionado por crear soluciones a problemas. Especialista en <strong>React/Next.js</strong> y <strong>Node/ASP.NET</strong>. Mi enfoque es construir código limpio y escalable, aplicando activamente patrones de diseño como <strong>DDD</strong> y <strong>CQRS</strong> para soluciones de alto rendimiento.
+Joven Desarrollador de Software Full Stack con 6 meses de pasantía y 10 meses de trabajo profesional apasionado por crear soluciones a problemas. Especialista en <strong>React/Next.js</strong> y <strong>Node/ASP.NET</strong>. Mi enfoque es construir código limpio y escalable, aplicando activamente patrones de diseño como <strong>DDD</strong> y <strong>CQRS</strong> para soluciones de alto rendimiento, además de poseer experiencia en el diseño de estructuras de software bajo enfoques de microservicios y arquitectura hexagonal.
 </p>
 
 ---
@@ -17,8 +17,17 @@ Joven Desarrollador de Software Full Stack con 6 meses de pasantía y 4 meses de
 ## 🛠️ Stack Tecnológico & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,cs,dotnet,php,laravel,cpp,python" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,tailwind,redux,git,github,docker,aws" />
+  <!-- Lenguajes y Frameworks (Skill Icons) -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,express,cs,dotnet,php,laravel,cpp,python" /><br><br>
+  
+  <!-- Bases de datos y Herramientas (Skill Icons) -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,tailwind,redux,git,github,docker,aws,azure" /><br><br>
+
+  <!-- Tecnologías Especializadas y Arquitectura (Shields.io) -->
+  <img src="https://img.shields.io/badge/Android%20%2F%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event%20Bus-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>
 
 <br>
@@ -43,7 +52,7 @@ Soy un **promotor activo de código limpio y escalable**, con experiencia demost
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=[Edelson-dev]&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edelson-dev&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Edelson-dev]&theme=vue&hide_border=true" alt="GitHub Streak" />
   
 </div>
