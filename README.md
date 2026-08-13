@@ -33,21 +33,44 @@ Desarrollador de Software Full Stack apasionado por construir soluciones eficien
 
 <br>
 
-## 💡 Áreas de Enfoque y Fortalezas Técnicas
-
-### 🏗️ Arquitectura de Software & Diseño
-- **Domain-Driven Design (DDD) & CQRS:** Diseños orientados al dominio con separación clara de comandos y consultas para máxima escalabilidad y auditoría.
-- **Estrategias Arquitectónicas:** Implementación de **Clean Architecture**, **Hexagonal Architecture** y **Modular Monolith** (.NET) según las necesidades del negocio.
-- **Sistemas Distribuidos:** Comunicación asíncrona y patrones de mensajería (Event-Bus, Mediator) en entornos de microservicios.
-
-### 🛡️ Seguridad & Calidad de Código
-- **Seguridad en APIs (OWASP Top 10):** Mitigación de vulnerabilidades criticas, diseño de mecanismos seguros de autenticación/autorización (JWT, OAuth) y saneamiento de datos.
-- **Prácticas SOLID & Clean Code:** Promotor activo de código limpio, mantenible y testeable para elevar el estándar del equipo.
-
-### 🔄 DevOps & Gestión de Datos
-- **CI/CD & Virtualización:** Automatización de flujos de integración y despliegue continuo mediante **GitHub Actions** y contenedorización con **Docker**.
-- **Bases de Datos & CRM:** Modelado avanzado en entornos relacionales (SQL Server, PostgreSQL, MySQL) e integración de plataformas CRM como **Salesforce**.
-
+## 💡 Lo que Puedo Hacer por tu Equipo
+<br>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏗️ Arquitectura & Escalabilidad</h4>
+      <ul>
+        <li><b>Modelado de Negocio:</b> DDD y CQRS para sistemas robustos.</li>
+        <li><b>Estructura Sólida:</b> Clean, Hexagonal y Monolitos Modulares.</li>
+        <li><b>Microservicios:</b> Comunicación asíncrona y sistemas distribuidos.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🛡️ Seguridad & Calidad de Código</h4>
+      <ul>
+        <li><b>Protección de APIs:</b> Mitigación basada en OWASP Top 10.</li>
+        <li><b>Acceso Seguro:</b> Autenticación/Autorización con JWT y OAuth.</li>
+        <li><b>Buenas Prácticas:</b> Principios SOLID y Clean Code.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🚀 DevOps & Automatización</h4>
+      <ul>
+        <li><b>Entrega Continua:</b> Pipelines automatizados con GitHub Actions.</li>
+        <li><b>Contenedores:</b> Entornos portátiles con Docker.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🗄️ Datos & CRM</h4>
+      <ul>
+        <li><b>Bases de Datos:</b> Modelado en SQL Server, PostgreSQL y MySQL.</li>
+        <li><b>Integraciones:</b> Plataformas empresariales como Salesforce.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
@@ -70,16 +93,65 @@ Desarrollador de Software Full Stack apasionado por construir soluciones eficien
 
 </div>
 
-## 📊 Mi Actividad en GitHub
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edelson-dev&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Edelson-dev]&theme=vue&hide_border=true" alt="GitHub Streak" />
-</div>
+<h2 align="center">🏆 Impacto y Logros Técnicos</h2>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🛠️ Arquitectura Enterprise</h3>
+        <p>Diseño e implementación de sistemas altamente escalables y mantenibles a largo plazo.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Modular_Monolith-0052CC?style=flat-square&logo=architecture&logoColor=white" />
+          <img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+          <img src="https://img.shields.io/badge/DDD_&_CQRS-FF6F00?style=flat-square&logo=apachekafka&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🔐 Seguridad & Cumplimiento</h3>
+        <p>Protección robusta en APIs REST, saneamiento de datos y flujos de pago autorizados.</p>
+        <p>
+          <img src="https://img.shields.io/badge/OWASP_Top_10-E0234E?style=flat-square&logo=owasp&logoColor=white" />
+          <img src="https://img.shields.io/badge/Auth-JWT_%2F_OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>🔄 Automatización CI/CD</h3>
+        <p>Despliegues ágiles, reducción de errores en entorno productivo y contenedorización.</p>
+        <p>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <h3>⚡ Mantenibilidad & Calidad</h3>
+        <p>Escribo código limpio, testeable y legible para reducir la deuda técnica del equipo.</p>
+        <p>
+          <img src="https://img.shields.io/badge/SOLID_Principles-008080?style=flat-square" />
+          <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=flat-square" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
-## 📫 Conectemos
+## 📫 Contactos
 
 <p align="center">
   <a href="mailto:edelsonjaeltr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
